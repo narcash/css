@@ -37,9 +37,9 @@ a:visited {
     /* text-transform: uppercase; */
 }
 .container {
-    max-width: 1000px;
-    min-width: 400px;
-    margin: 70px;
+    max-width: 750px;
+    min-width: auto;
+    margin: auto;
     padding-top: 30px;
 }
 .card {
