@@ -38,7 +38,7 @@ a:visited {
 }
 .container {
     max-width: 750px;
-    min-width: auto;
+    min-width: 700px;
     margin: auto;
     padding-top: 30px;
 }
